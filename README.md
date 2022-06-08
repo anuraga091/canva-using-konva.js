@@ -11,7 +11,7 @@ Functionality:
 2. When you move the cursor on the figure or click on the figure, It will show Shape Clicked/touched as true 
 3. You will get the X and Y value of the shape with relative to its initial position  
 
-
+https://drive.google.com/file/d/1nvyIGxOXq0-pTLSL_6Wfv78uPx5RmB6V/view?usp=sharing
 
 
 
